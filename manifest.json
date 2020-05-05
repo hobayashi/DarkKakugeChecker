@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+	"name": "Dark KakugeChecker",
+	"version": "1.0",
+	"description": "Toggle KakugeChecker dark mode.",
+	"content_scripts": [
+		{
+			"matches": ["https://kakuge-checker.com/*"],
+			"css": ["app.css"],
+			"run_at": "document_end"	
+		}
+	]
+}
