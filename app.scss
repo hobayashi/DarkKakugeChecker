@@ -1,0 +1,131 @@
+$backgroundColor: #282828;
+$subBackgroundColor: #383838;
+$textColor: #FFFFFF;
+$aTextColor: #1B95E0;
+$inputBackgroundColor: #000000;
+
+body {
+    background-color: $backgroundColor !important;
+    color: $textColor !important;
+}
+
+nav {
+    background-color: $backgroundColor !important;
+}
+
+a {
+    color: $aTextColor !important;
+}
+
+select {
+    background-color: $inputBackgroundColor !important;
+}
+
+input {
+    background-color: $inputBackgroundColor !important;
+}
+
+textarea {
+    background-color: $inputBackgroundColor !important;
+}
+
+.reminder_events {
+    background-color: $backgroundColor !important;
+}
+
+.etofflist {
+    background-color: $backgroundColor !important;
+}
+
+.etofflist>div {
+    background-color: $backgroundColor !important;
+}
+
+.streamlist_wrap {
+    background-color: $backgroundColor !important;
+}
+
+.streamlist_row_info_detail_event {
+    background-color: $backgroundColor !important;
+}
+
+.streamlist_row {
+    background-color: $backgroundColor !important;
+}
+
+.streamlist_event_event {
+    background-color: $backgroundColor !important;
+}
+
+.streamlist_row_event_on {
+    background-color: $backgroundColor !important;
+}
+
+.streamlist_row_event_offair {
+    background-color: $backgroundColor !important;
+}
+
+.event_online {
+    background-color: $backgroundColor !important;
+}
+
+.form-control {
+    background-color: $inputBackgroundColor !important;
+}
+
+.navbar-nav>.active>a {
+    background-color: $subBackgroundColor !important;
+}
+
+.event_day_weekday {
+    background-color: $backgroundColor !important;
+}
+
+.event_day_saturday {
+    background-color: $backgroundColor !important;
+}
+
+.event_day_sunday {
+    background-color: $backgroundColor !important;
+}
+
+.event_row_during_odd {
+    background-color: $backgroundColor !important;
+}
+
+.event_row_during_even {
+    background-color: $backgroundColor !important;
+}
+
+.event_attention {
+    background-color: $backgroundColor !important;
+    color: $textColor !important;
+}
+
+.event_day_today {
+    background-color: $backgroundColor !important;
+}
+
+.event_training {
+    background-color: $backgroundColor !important;
+}
+
+.well {
+    background-color: $backgroundColor !important;
+}
+
+.comment_body {
+    color: $textColor !important;
+}
+
+.comment_reply_wrapper {
+    background-color: $subBackgroundColor !important;
+}
+
+.ns-y8j0l-e-0 {
+    background-color: $backgroundColor !important;
+}
+
+.videos-title {
+    color: $textColor !important;
+}

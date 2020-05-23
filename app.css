@@ -1,125 +1,126 @@
 body {
-    background-color: #282828 !important;
-    color: #FFFFFF !important;
+  background-color: #282828 !important;
+  color: #FFFFFF !important;
 }
 
 nav {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 a {
-    color: #1B95E0 !important;
+  color: #1B95E0 !important;
 }
 
 select {
-    background-color: #000000 !important;
+  background-color: #000000 !important;
 }
 
 input {
-    background-color: #000000 !important;
+  background-color: #000000 !important;
 }
 
 textarea {
-    background-color: #000000 !important;
+  background-color: #000000 !important;
 }
 
 .reminder_events {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .etofflist {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
-.etofflist>div {
-    background-color: #282828 !important;
+.etofflist > div {
+  background-color: #282828 !important;
 }
 
 .streamlist_wrap {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .streamlist_row_info_detail_event {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .streamlist_row {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .streamlist_event_event {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .streamlist_row_event_on {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .streamlist_row_event_offair {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .event_online {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .form-control {
-    background-color: #000000 !important;
+  background-color: #000000 !important;
 }
 
-.navbar-nav>.active>a {
-    background-color: #383838 !important;
+.navbar-nav > .active > a {
+  background-color: #383838 !important;
 }
 
 .event_day_weekday {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .event_day_saturday {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .event_day_sunday {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .event_row_during_odd {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .event_row_during_even {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .event_attention {
-    background-color: #282828 !important;
-    color: #FFFFFF !important;
+  background-color: #282828 !important;
+  color: #FFFFFF !important;
 }
 
 .event_day_today {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .event_training {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .well {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .comment_body {
-    color: #FFFFFF !important;
+  color: #FFFFFF !important;
 }
 
 .comment_reply_wrapper {
-    background-color: #383838 !important;
+  background-color: #383838 !important;
 }
 
 .ns-y8j0l-e-0 {
-    background-color: #282828 !important;
+  background-color: #282828 !important;
 }
 
 .videos-title {
-    color: #FFFFFF !important;
+  color: #FFFFFF !important;
 }
+/*# sourceMappingURL=app.css.map */
