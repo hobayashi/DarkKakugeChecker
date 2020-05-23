@@ -43,6 +43,22 @@ textarea {
     background-color: #282828 !important;
 }
 
+.streamlist_row {
+    background-color: #282828 !important;
+}
+
+.streamlist_event_event {
+    background-color: #282828 !important;
+}
+
+.streamlist_row_event_on {
+    background-color: #282828 !important;
+}
+
+.streamlist_row_event_offair {
+    background-color: #282828 !important;
+}
+
 .event_online {
     background-color: #282828 !important;
 }
@@ -102,4 +118,8 @@ textarea {
 
 .ns-y8j0l-e-0 {
     background-color: #282828 !important;
+}
+
+.videos-title {
+    color: #FFFFFF !important;
 }
