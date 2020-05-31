@@ -122,10 +122,10 @@ textarea {
     background-color: $subBackgroundColor !important;
 }
 
-.ns-y8j0l-e-0 {
-    background-color: $backgroundColor !important;
-}
-
 .videos-title {
     color: $textColor !important;
+}
+
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: $backgroundColor !important;
 }

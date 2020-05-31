@@ -116,11 +116,11 @@ textarea {
   background-color: #383838 !important;
 }
 
-.ns-y8j0l-e-0 {
-  background-color: #282828 !important;
-}
-
 .videos-title {
   color: #FFFFFF !important;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #282828 !important;
 }
 /*# sourceMappingURL=app.css.map */

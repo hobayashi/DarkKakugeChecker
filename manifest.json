@@ -2,7 +2,11 @@
 	"manifest_version": 2,
 	"name": "Dark Kakuge-Checker",
 	"version": "1.1",
-	"description": "格ゲーチェッカーの見た目をダークモードに変更します。",
+	"icons": {
+		"16": "icon16.png",
+		"128": "icon128.png"
+	},
+	"description": "A Dark theme for https://kakuge-checker.com",
 	"content_scripts": [
 		{
 			"matches": ["https://kakuge-checker.com/*"],
