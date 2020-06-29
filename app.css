@@ -123,4 +123,9 @@ textarea {
 .table-striped > tbody > tr:nth-of-type(odd) {
   background-color: #282828 !important;
 }
+
+.streamlist_row div {
+  background-color: #282828 !important;
+  border: 0px !important;
+}
 /*# sourceMappingURL=app.css.map */
